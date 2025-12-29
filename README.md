@@ -1,3 +1,8 @@
+To play:    
+download the first_complete_draft.py file and downloadn & unzip OpenGL.zip in the same folder and run the first_complete_draft.py
+
+
+
 Controls:
 
 1) left right top down arrows to move the camera   
