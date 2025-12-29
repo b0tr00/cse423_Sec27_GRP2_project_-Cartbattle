@@ -1,5 +1,5 @@
 Controls:
- left right top down arrows to move the camera
+left right top down arrows to move the camera
 wasd to move the car 
 space to fire current weapon
 J and K for zoomin or zoom out respectively
